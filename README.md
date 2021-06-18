@@ -7,7 +7,7 @@
   </ul>
 
 # Ejemplo - Tabla de multiplicar Base = 2
- <p><h2>Para el comando:<h2>
+ <p>Para el comando:
  <h3>node app --base=2 --hasta=7 --listar </h3>
  
  <br>

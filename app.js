@@ -3,7 +3,7 @@ const { crearArchivo } = require('./helpers/multiplicar');
 const argv = require('./config/yargs');
 const colors = require('colors');
 
-console.clear();
+//console.clear();
 
 // Para leer por consola, no es recomendado este metodo, sinó yargs: {
 //        const [,,arg3 = 'base=5'] = process.argv
@@ -13,7 +13,7 @@ console.clear();
 
 // console.log(process.argv);
 // console.log(argv);
-console.log(argv);
+// console.log(argv);
 
 crearArchivo( argv.b, argv.l , argv.h)
   .then(nombreArchivo=>console.log(nombreArchivo.rainbow, 'creado'))

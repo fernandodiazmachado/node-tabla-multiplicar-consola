@@ -7,8 +7,9 @@
   </ul>
 
 # Ejemplo - Tabla de multiplicar Base = 2
- <p>Para el comando: <bold>node app --base=2 --hasta=7 --listar </bold>
- <br>
+ <p><h2>Para el comando:<h2>
+ <h3>node app --base=2 --hasta=7 --listar </h3>
+ 
  <br>
  obtenemos por consola:
  <br>
@@ -19,7 +20,7 @@
  <br>
  <img src="./img/almacenamiento_example_table_2.JPG" />
  <br>
- <br>
+ 
  </p>
 <br>
 
